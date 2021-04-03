@@ -1,7 +1,7 @@
 {
   "name": "JSON Remote Encode Utility",
   "description": "Extract data from any kind of Web Service and import it into Google Spreadsheet",
-  "repository": "https://github.com/javanile/json.javanile.org",
+  "repository": "https://github.com/javanile/json",
   "logo": "https://github.com/javanile/xdata/raw/master/public/xdata.png",
   "keywords": ["vtiger", "crm", "propan"]
 }
